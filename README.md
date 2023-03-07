@@ -1,2 +1,2 @@
-# Leon-Template-1
+# Template 1 - Leon
 A Simple Template Using HTML &amp; CSS 
